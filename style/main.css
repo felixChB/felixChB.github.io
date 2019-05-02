@@ -1,0 +1,28 @@
+/*
+Portfolio/Userpage
+Felix Brunn
+*/
+html{
+    background-color: black;
+}
+header{
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border: solid 4px rgb(255, 163, 163);
+    color: rgb(255, 163, 163);
+    box-shadow: 0 0 8px 0 red, 0 6px 20px 0 red;
+}
+#eia2links{
+    margin: 0;
+    padding: 4rem;
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    color: rgb(153, 255, 204);
+    border: solid 4px rgb(153, 255, 204);
+    box-shadow: 5px 5px 5px 5px springgreen, 0 6px 20px 0 springgreen;
+}
